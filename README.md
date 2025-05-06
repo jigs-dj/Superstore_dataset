@@ -5,7 +5,11 @@ Use SQL to answer key business questions from a sales dataset, like:
 - Top-selling products
 - Monthly trends
 - Region-wise performance
-
+- Category-wise performance
+- Most valuable customer
+- Monthly sales growth
+- Growth per category
+- Progit Margin by product
 
 ## Contents
 - `create_table.sql`: Defines table schema
